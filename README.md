@@ -1,5 +1,5 @@
 ## Travel Advisor
-![](https://img.shields.io/badge/ReactJS-blue) ![](https://img.shields.io/badge/MaterialUI-blue) ![](https://img.shields.io/badge/MapsAPI-yellow) ![
+![](https://img.shields.io/badge/ReactJS-blue) ![](https://img.shields.io/badge/MaterialUI-blue) ![](https://img.shields.io/badge/MapsAPI-yellow)
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
 ## Introduction
